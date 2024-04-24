@@ -1,0 +1,13 @@
+  1. DBT atau Data Build Tools adalah sebuah tools untuk melakukan transformasi dan pengolahan data.
+     DBT adalah tools open-source yang memungkinkan seorang data engineer untuk mendefinisikan transformasi data sebagai kode SQL 
+     dan kemudian menjalankannya secara otomatis untuk menghasilkan ouput yang diinginkan.
+
+  2. Bebrapa keuntungan menggunakan DBT yaitu :
+      - Produktivitas yang tinggi : DBT memungkinkan data engineer untuk fokus pada logika transformasi data menggunakan SQL, tanpa perlu khawatir tentang tugas-tugas administratif.
+      - Konsistensi dan Keandalan: Dengan mendefinisikan transformasi data sebagai kode SQL dan menggunakan DBT untuk mengeksekusinya secara otomatis, kekonsistenan dan keandalan dalam transformasi data dapat dijaga.
+      - Dokumentasi Otomatis: DBT secara otomatis menghasilkan dokumentasi yang memudahkan untuk memahami struktur dan logika transformasi data. Dokumentasi ini terintegrasi dengan kode transformasi, sehingga selalu terkait dengan status terbaru dari data pipeline.
+      - Testing Otomatis: DBT memungkinkan pengguna untuk menentukan tes yang akan dijalankan pada hasil transformasi data. Ini memungkinkan untuk memvalidasi data dan memastikan kualitas data secara otomatis.
+      - Integrasi dengan Alat Data Warehousing: DBT mendukung integrasi dengan berbagai platform data warehousing seperti BigQuery, Snowflake, dan Redshift, sehingga memudahkan dalam mengelola data pipeline.
+      - Versi Kontrol: Dengan integrasi Git, kode transformasi data dapat dikelola dengan baik menggunakan sistem versi kontrol, memungkinkan untuk melacak perubahan, memfasilitasi kolaborasi, dan memulihkan versi sebelumnya jika diperlukan.
+
+  3. 
